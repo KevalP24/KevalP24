@@ -56,6 +56,10 @@
       </p>
     </td>
   </tr>
-</table>                               
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KevalP242&label=Profile%20views&color=0e75b6&style=flat" alt="mhusain22" /> </p>                               
+</table>    
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevalP24&theme=dark&hide_border=true&layout=compact" align="center" />
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=KevalP24">
+</a>
+<a href="https://github.com/KevalP24?tab=followers"><img src="https://img.shields.io/github/followers/KevalP24?label=Followers&style=social" alt="GitHub Badge"></a>
