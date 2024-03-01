@@ -57,5 +57,5 @@
     </td>
   </tr>
 </table>                               
-                               
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KevalP242&label=Profile%20views&color=0e75b6&style=flat" alt="mhusain22" /> </p>                               
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevalP24&theme=dark&hide_border=true&layout=compact" align="center" />
