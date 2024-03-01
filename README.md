@@ -65,3 +65,5 @@
     <img src="https://komarev.com/ghpvc/?username=KevalP24">
 </a>
 <a href="https://github.com/KevalP24?tab=followers"><img src="https://img.shields.io/github/followers/KevalP24?label=Followers&style=social" alt="GitHub Badge"></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KevalP24&show_icons=true&locale=en" alt="KevalP24" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KevalP24&" alt="KevalP24" /></p>
