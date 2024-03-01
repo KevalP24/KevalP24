@@ -13,7 +13,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href="https://www.linkedin.com/in/keval-patel-a4b4b7267" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/keval-patel24" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://instagram.com/kevalpatel_24" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://twitter.com/kevalp24" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitterx.png"/></a>
 
 </p>
