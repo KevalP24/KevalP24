@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *Full Stack Web Development.*
 
-- 🚀 I’m currently doing *HTML, CSS, JS.*
+- 🚀 I have learned *HTML, CSS, JS.* I’m currently doing *React.*
 
 - 📫 How to reach me **kevalrp2004@gmail.com**
 
